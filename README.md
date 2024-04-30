@@ -1,1 +1,1 @@
-# FYP_SP24
+Implementation of the FP-Tree Algorithm based on the paper attached.
